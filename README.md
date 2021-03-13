@@ -19,4 +19,4 @@ In seguito è possibile scaricare per consultazione:
 - [Policy Paper](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf) in pdf
 - [Data set di Analisi Geospaziale dati AIRE 2015 per Seggi](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) spreadsheet
 
-Nota: Il file con l'indicazione delle città di residenza dei cittadini iscritti all'AIRE è a disposizione delle forze politiche in occasione delle campagne elettorali per le elezioni politiche. Il data set impiegato per l'analisi in oggetto è AIRE 2015.
+Nota: Il file con l'indicazione delle città di residenza dei cittadini iscritti all'AIRE è a disposizione delle forze politiche in occasione delle campagne elettorali per le elezioni politiche ed europee. Il data set impiegato per l'analisi in oggetto è AIRE 2015.
